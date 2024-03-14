@@ -24,6 +24,9 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 - Adding a Computer to a Domain
 - Creation of Active Directory users using a PowerShell Script
 
+  <img align="center" width="1000" alt="Drawing1" src="https://github.com/gabromerorodriguez/AD-Deploying-AzureVMs/assets/163021104/f5115e98-73e9-48b1-8bd8-1176a4df3fcd">
+
+
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
