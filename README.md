@@ -7,7 +7,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
@@ -19,10 +19,10 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Deployment and Configuration of VMs within Azure.  
-- Installation of Active Directory Domain Services. 
-- Adding a Computer to a Domain.
-- Creation of Active Directory users using a PowerShell Script. 
+- Deployment and Configuration of VMs within Azure
+- Installation of Active Directory Domain Services 
+- Adding a Computer to a Domain
+- Creation of Active Directory users using a PowerShell Script
 
 <h2>Deployment and Configuration Steps</h2>
 
